@@ -1,4 +1,7 @@
 # my-project
+```
+cd my-project
+```
 
 ## Project setup
 ```
